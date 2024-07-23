@@ -9,7 +9,7 @@ function MyButton() {
 export default function MyApp() {
     return (
         <div>
-            <h1> Welcome to my Website </h1>
+            <h1 className="Title"> Welcome to my Website </h1>
 
             <MyButton />
         </div>
